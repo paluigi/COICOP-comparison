@@ -1,0 +1,312 @@
+﻿Level,Code,Description
+1,CP01,Food and non-alcoholic beverages
+2,CP011,Food
+3,CP0111,Bread and cereals
+4,CP01111,Rice
+5,CP01111A,Long-grain rice (1 kg)
+4,CP01112,Flours and other cereals
+5,CP01112A,Wheat flour (1 kg)
+5,CP01112B,Cornflakes (1 kg)
+4,CP01113,Bread
+5,CP01113A,"White bread, loaf (1 kg)"
+4,CP01114,Other bakery products
+4,CP01115,Pizza and quiche
+5,CP01115A,"Pizza, frozen (500 g)"
+4,CP01116,Pasta products and couscous
+5,CP01116A,"Pasta, without eggs (1 kg)"
+4,CP01117,Breakfast cereals
+4,CP01118,Other cereal products
+3,CP0112,Meat
+4,CP01121,Beef and veal
+5,CP01121A,"Beef, minced (1 kg)"
+4,CP01122,Pork
+5,CP01122A,"Pork, cutlet (""escalope"") (1 kg)"
+5,CP01122B,"Pork, loin chop (B2) (1 kg)"
+4,CP01123,Lamb and goat
+4,CP01124,Poultry
+5,CP01124A,Whole chicken (1 kg)
+5,CP01124B,"Chicken breast, fillets (1 kg)"
+4,CP01125,Other meats
+4,CP011267,"Dried, salted or smoked meat and edible meat offal"
+4,CP01126,Edible offal
+4,CP01127,"Dried, salted or smoked meat"
+5,CP01127A,"Sausage, Frankfurter/Wiener (1 kg)"
+5,CP01127B,"Sausage, salami type (1 kg)"
+4,CP01128,Other meat preparations
+5,CP01128A,Other preserved or processed meat and meat preparations
+5,CP01128B,"Other fresh, chilled or frozen edible meat"
+3,CP0113,Fish and seafood
+4,CP011312,"Fresh, chilled or frozen fish"
+4,CP01131,Fresh or chilled fish
+5,CP01131A,"Salmon, steak (1 kg)"
+4,CP01132,Frozen fish
+4,CP011334,"Fresh, chilled or frozen seafood"
+4,CP01133,Fresh or chilled seafood
+4,CP01134,Frozen seafood
+4,CP01135,"Dried, smoked or salted fish and seafood"
+4,CP01136,Other preserved or processed fish and seafood and fish and seafood preparations
+5,CP01136A,Tinned pink tuna (1 kg/net)
+5,CP01136B,Fish fingers (500 g)
+4,CP01141,Whole milk
+5,CP01141A,"Milk, fresh, unskimmed (1 l)"
+4,CP01142,Low fat milk
+4,CP01143,Preserved milk
+4,CP01144,Yoghurt
+5,CP01144A,Natural yoghurt (1 kg/l)
+5,CP01144B,Fruit yoghurt (1 kg/l)
+4,CP01145,Cheese and curd
+5,CP01145A,"Cheese, Camembert type (1 kg)"
+5,CP01145B,"Cheese, Gouda type (1 kg)"
+5,CP01145C,Cream cheese (200 g)
+4,CP01146,Other milk products
+4,CP01147,Eggs
+5,CP01147A,Chicken eggs (10 eggs)
+4,CP01151,Butter
+5,CP01151A,"Butter, unsalted (250 g)"
+4,CP01152,Margarine and other vegetable fats
+5,CP01152A,Margarine (250 g)
+4,CP01153,Olive oil
+5,CP01153A,Olive oil (1 l)
+4,CP01154,Other edible oils
+5,CP01154A,Vegetable oil (1 l)
+4,CP01155,Other edible animal fats
+3,CP0116,Fruit
+4,CP011601,"Citrus fruits (fresh, chilled or frozen)"
+4,CP011602,"Bananas (fresh, chilled or frozen)"
+4,CP011603,"Apples (fresh, chilled or frozen)"
+4,CP011604,"Pears (fresh, chilled or frozen)"
+4,CP011605,"Stone fruits (fresh, chilled or frozen)"
+4,CP011606,"Berries (fresh, chilled or frozen)"
+4,CP011607,"Other fresh, chilled or frozen fruits"
+4,CP01161,Fresh or chilled fruit
+5,CP01161A,Apples (1 kg)
+5,CP01161B,Fresh bananas (1 kg)
+4,CP01162,Frozen fruit
+4,CP01163,Dried fruit and nuts
+4,CP01164,Preserved fruit and fruit-based products
+5,CP01164A,Canned fruit (1 kg/net)
+3,CP0117,Vegetables
+4,CP011701,"Leaf and stem vegetables (fresh, chilled or frozen)"
+4,CP011702,Cabbages (fresh or chilled)
+4,CP011703,"Vegetable grown for their fruit (fresh, chilled or frozen)"
+4,CP011704,"Root crops, non-starchy bulbs and mushrooms (fresh, chilled or frozen)"
+4,CP01171,Fresh or chilled vegetables other than potatoes and other tubers
+5,CP01171A,Fresh carrots (1 kg)
+5,CP01171B,"Fresh tomatoes, round (1 kg)"
+4,CP01172,Frozen vegetables other than potatoes and other tubers
+4,CP01173,"Dried vegetables, other preserved or processed vegetables"
+5,CP01173A,Tinned sweet corn (500 g/net)
+5,CP01173B,Dried vegetables
+5,CP01173C,Other preserved or processed vegetables
+4,CP01174,Potatoes
+5,CP01174A,Potatoes (1 kg)
+5,CP01174B,Frozen French fries (1 kg)
+4,CP01175,Crisps
+5,CP01175A,"Potato crisps, single pack (200 g)"
+4,CP01176,Other tubers and products of tuber vegetables
+3,CP0118,"Sugar, jam, honey, chocolate and confectionery"
+4,CP01181,Sugar
+5,CP01181A,White sugar (1 kg)
+4,CP01182,"Jams, marmalades and honey"
+5,CP01182A,Jam (1 kg)
+4,CP01183,Chocolate
+5,CP01183A,"Chocolate, milk (1 kg)"
+4,CP01184,Confectionery products
+5,CP01184A,Chewing gum (1 package)
+4,CP01185,Edible ices and ice cream
+5,CP01185A,Ice cream (1 l)
+4,CP01186,Artificial sugar substitutes
+5,CP01186A,Other sugar products
+3,CP0119,Food products n.e.c.
+4,CP01191,"Sauces, condiments"
+5,CP01191A,Tomato ketchup (1 kg)
+4,CP01192,"Salt, spices and culinary herbs"
+5,CP01192A,Mineral salt (1 kg)
+5,CP01192B,Black pepper (100 g)
+4,CP01193,Baby food
+5,CP01193A,"Baby food, meat base (500 g)"
+4,CP01194,Ready-made meals
+4,CP01199,Other food products n.e.c.
+5,CP01199A,"Baker's yeast, dessert preparations, soups"
+2,CP012,Non-alcoholic beverages
+3,CP0121,"Coffee, tea and cocoa"
+4,CP01211,Coffee
+5,CP01211A,Coffee (1 kg)
+4,CP01212,Tea
+5,CP01212A,Black tea (25 bags)
+4,CP01213,Cocoa and powdered chocolate
+5,CP01213A,"Cocoa instant drink, powder (1 kg)"
+3,CP0122,"Mineral waters, soft drinks, fruit and vegetable juices"
+4,CP01221,Mineral or spring waters
+5,CP01221A,"Mineral water, carbonated (1 l)"
+5,CP01221B,"Mineral water, still (1 l)"
+4,CP01222,Soft drinks
+5,CP01222A,"Carbonated drink, orange flavoured (1 l)"
+4,CP01223,Fruit and vegetables juices
+5,CP01223A,Fruit juices
+5,CP01223B,Orange juice (1 l)
+5,CP01223C,Vegetable juices
+1,CP02,"Alcoholic beverages, tobacco and narcotics"
+2,CP021,Alcoholic beverages
+3,CP0211,Spirits
+4,CP02111,Spirits and liqueurs
+5,CP02111A,Vodka (1 l)
+4,CP02112,Alcoholic soft drinks
+3,CP0212,Wine
+4,CP02121,Wine from grapes
+5,CP02121A,Red wine (0.75 l)
+5,CP02121B,White wine (0.75 l)
+4,CP02122,Wine from other fruits
+4,CP02123,Fortified wines
+4,CP02124,Wine-based drinks
+3,CP0213,Beer
+4,CP02131,Lager beer
+5,CP02131A,Beer (1 l)
+4,CP02132,Other alcoholic beer
+4,CP02133,Low and non-alcoholic beer
+4,CP02134,Beer-based drinks
+2,CP022,Tobacco
+3,CP0220,Tobacco
+4,CP02201,Cigarettes
+5,CP02201A,Cigarettes (20 cigarettes)
+4,CP02202,Cigars
+4,CP02203,Other tobacco products
+2,CP023,Narcotics
+3,CP0230,Narcotics
+4,CP02300,Narcotics
+2,CP054,"Glassware, tableware and household utensils"
+3,CP0540,"Glassware, tableware and household utensils"
+4,CP05401,"Glassware, crystal-ware, ceramic ware and chinaware"
+5,CP05401A,Glass for water (1 piece)
+5,CP05401B,Flat plate (1 piece)
+5,CP05401C,Cup and saucer (1 set)
+4,CP05402,"Cutlery, flatware and silverware"
+4,CP05403,Non-electric kitchen utensils and articles
+5,CP05403A,"Cooking pot, stainless steel (1 set)"
+4,CP05404,"Repair of glassware, tableware and household utensils"
+2,CP055,Tools and equipment for house and garden
+3,CP0551_0552,Major tools and equipment; small tools and miscellaneous accessories
+3,CP0551,Major tools and equipment
+4,CP05511,Motorized major tools and equipment
+4,CP05512,"Repair, leasing and rental of major tools and equipment"
+3,CP0552,Small tools and miscellaneous accessories
+4,CP05521,Non-motorised small tools
+4,CP05522,Miscellaneous small tool accessories
+5,CP05522A,Battery (1 piece)
+5,CP05522B,"Light bulb, standard (1 piece)"
+5,CP05522C,Light bulb energy saving type (1 piece)
+4,CP05523,Repair of non-motorised small tools and miscellaneous accessories
+2,CP056,Goods and services for routine household maintenance
+3,CP0561,Non-durable household goods
+4,CP05611,Cleaning and maintenance products
+5,CP05611A,Dish washer tablets (10 tablets)
+5,CP05611B,"Detergent for washing machine, concentrated (1 kg)"
+5,CP05611C,"Detergent for washing machine, unconcentrated (1 kg)"
+5,CP05611D,All-purposes household cleaner (1 l)
+5,CP05611E,Cleaner for WC (1 l)
+5,CP05611F,Cleaning liquid for windows (1 l)
+5,CP05611G,"Detergent for washing machine, powder, 70-90 g/wash (1 kg)"
+5,CP05611H,"Detergent for washing machine, powder, > 90 g/wash (1 kg)"
+4,CP05612,Other non-durable small household articles
+5,CP05612A,Scourer sponge (1 piece)
+3,CP0562,Domestic services and household services
+4,CP05621,Domestic services by paid staff
+4,CP05622,Cleaning services
+4,CP05623,Hire of furniture and furnishings
+4,CP05629,Other domestic services and household services
+1,CP06,Health
+2,CP061,"Medical products, appliances and equipment"
+3,CP0611,Pharmaceutical products
+4,CP06110,Pharmaceutical products
+5,CP06110A,Acetylsalicylic acid (10 tablets)
+5,CP06110B,Aciclovir (2 g)
+5,CP06110C,Alprazolam (10 tablets)
+5,CP06110D,Atorvastatin (10 tablets)
+5,CP06110E,Cetirizine (10 tablets)
+5,CP06110F,Ciprofloxacin (10 tablets)
+5,CP06110G,Clopidogrel (10 tablets)
+5,CP06110H,Diclofenac (100 g)
+5,CP06110I,Enalapril-Hydrochlorothiazide/HCTZ (10 tablets)
+5,CP06110J,Esomeprazole (10 tablets)
+5,CP06110K,Latanoprost (10 ml)
+5,CP06110L,Montelukast (10 tablets)
+5,CP06110M,Paracetamol (10 tablets)
+5,CP06110N,Risedronate (10 tablets)
+3,CP0612_0613,"Other medical products, therapeutic appliances and equipment"
+3,CP0612,Other medical products
+4,CP06121,Pregnancy tests and mechanical contraceptive devices
+5,CP06121A,Pregnancy test (1 piece)
+5,CP06121B,Condoms (3 pieces)
+4,CP06129,Other medical products n.e.c.
+5,CP06129A,Plaster strips (10 strips)
+5,CP06129B,Joint bandage (1 m)
+5,CP06129C,Knee support (1 piece)
+5,CP06129D,Digital stick thermometer (1 piece)
+3,CP0613,Therapeutic appliances and equipment
+4,CP06131,Corrective eye-glasses and contact lenses
+4,CP06132,Hearing aids
+4,CP06133,Repair of therapeutic appliances and equipment
+4,CP06139,Other therapeutic appliances and equipment
+3,CP0922,Musical instruments and major durables for indoor recreation
+4,CP09221,Musical instruments
+2,CP093,"Other recreational items and equipment, gardens and pets"
+3,CP0931,"Games, toys and hobbies"
+4,CP09311,Games and hobbies
+5,CP09311A,"Board game, Monopoly (1 piece)"
+5,CP09311B,"Video game, PlayStation 3 (1 piece)"
+4,CP09312,Toys and celebration articles
+3,CP0933,"Gardens, plants and flowers"
+4,CP09331,Garden products
+5,CP09331A,Potting soil (10 l)
+4,CP09332,Plants and flowers
+3,CP0934_0935,Pets and related products; veterinary and other services for pets
+3,CP0934,Pets and related products
+4,CP09341,Purchase of pets
+4,CP09342,Products for pets
+5,CP09342A,"Dog food, meat (1 kg)"
+5,CP09342B,Dog food dry (1 kg)
+2,CP095,"Newspapers, books and stationery"
+3,CP0951,Books
+4,CP09511,Fiction books
+5,CP09511A,"Novel, Top 5 (1 book)"
+4,CP09512,Educational text books
+4,CP09513,Other non-fiction books
+4,CP09514,Binding services and E-book downloads
+3,CP0952,Newspapers and periodicals
+4,CP09521,Newspapers
+5,CP09521A,Daily newspaper (1 piece)
+4,CP09522,Magazines and periodicals
+5,CP09522A,"Magazine, weekly, gossip (1 copy)"
+3,CP0953_0954,Miscellaneous printed matter; stationery and drawing materials
+3,CP0953,Miscellaneous printed matter
+4,CP09530,Miscellaneous printed matter
+3,CP0954,Stationery and drawing materials
+4,CP09541,Paper products
+5,CP09541A,"Paper, DIN A4 (500 sheets)"
+5,CP09541B,Pencil (1 piece)
+4,CP09549,Other stationery and drawing materials
+1,CP12,Miscellaneous goods and services
+2,CP121,Personal care
+4,CP12113,Personal grooming treatments
+3,CP1212_1213,"Electrical appliances for personal care; other appliances, articles and products for personal care"
+3,CP1212,Electrical appliances for personal care
+4,CP12121,Electric appliances for personal care
+5,CP12121A,Electric razor (1 piece)
+5,CP12121B,Electric toothbrush (1 set)
+3,CP1213,"Other appliances, articles and products for personal care"
+4,CP12131,Non-electrical appliances
+5,CP12131A,"Cartridges for safety razor, men (5 cartridges)"
+4,CP12132,"Articles for personal hygiene and wellness, esoteric products and beauty products"
+5,CP12132A,Shampoo (400 ml)
+5,CP12132B,Tooth paste (100 ml)
+5,CP12132C,"Toilet soap, liquid (200 ml)"
+5,CP12132D,Shower gel (300 ml)
+5,CP12132E,Deodorant (50 ml)
+5,CP12132F,Tampons (10 pieces)
+5,CP12132G,Disposable nappies (50 pieces)
+5,CP12132H,Cotton buds (100 pieces)
+5,CP12132I,Manual toothbrush (1 piece)
+5,CP12132J,Toilet paper (10 rolls)
+2,CP123,Personal effects n.e.c.
+3,CP1232,Other personal effects
+4,CP12322,Articles for babies
